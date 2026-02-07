@@ -49,7 +49,7 @@ Contains:
 - Average tenure
 - Average monthly revenue
 - Customer Lifetime Value (CLV)
-- 
+   
 ## Key Insights
 - Month-to-month contracts show highest churn
 - Most churn happens within first year
