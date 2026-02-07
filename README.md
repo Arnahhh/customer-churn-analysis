@@ -3,7 +3,6 @@
 ## Author
 Arna Adhikari  
 
-
 ## Overview
 This project is based on behavioral data analytics to decode the drivers behind customer attrition in subscription-based models. 
 By identifying key churn indicators, it provides actionable insights to proactively improve retention, increase customer lifetime value, and secure sustainable revenue growth. 
@@ -15,9 +14,7 @@ By identifying key churn indicators, it provides actionable insights to proactiv
 - Study pricing impact on churn
 - Estimate Customer Lifetime Value (CLV)
 - Provide actionable retention strategies
-
----
-
+- 
 ## Dataset
 Telco Customer Churn Dataset  
 Contains:
@@ -26,22 +23,13 @@ Contains:
 - Billing information
 - Contract type
 - Churn status
-
-Rows: 7,043 customers  
-Columns: 21 features
-
----
-
+  
 ## Tools & Technologies Used 
 - Python
 - Pandas
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
-
----
-
-## Analysis Performed
 
 ### Data Cleaning
 - Removed customerID
@@ -61,16 +49,12 @@ Columns: 21 features
 - Average tenure
 - Average monthly revenue
 - Customer Lifetime Value (CLV)
-
----
-
+- 
 ## Key Insights
 - Month-to-month contracts show highest churn
 - Most churn happens within first year
 - Higher monthly charges increase churn risk
 - Long-term customers generate significantly higher lifetime value
-
----
 
 ## Business Recommendations
 - Offer discounts for annual/long-term plans
@@ -78,5 +62,5 @@ Columns: 21 features
 - Implement loyalty rewards programs
 - Target high-risk customers with retention campaigns
 
----
+
 
